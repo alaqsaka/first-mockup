@@ -5,3 +5,9 @@ https://www.figma.com/file/lUPznViw2ChaM4aNbX2lwp/Mock-up-task-management?node-i
 
 ## Login Page
 ![](images/login.png)
+
+## Dashboard Page
+![](images/dashboard.png)
+
+## Calendar Page
+![](images/calendar.png)

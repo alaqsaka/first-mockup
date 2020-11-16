@@ -6,3 +6,4 @@ https://www.figma.com/file/lUPznViw2ChaM4aNbX2lwp/Mock-up-task-management?node-i
 
 ## Login Page
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
